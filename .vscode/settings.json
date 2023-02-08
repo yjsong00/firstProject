@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "terminal.integrated.sendKeybindingsToShell": true,
+  "terminal.integrated.altClickMovesCursor": true,
+  "terminal.integrated.allowMnemonics": false,
+  "terminal.integrated.allowChords": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontSize": 12
+}
