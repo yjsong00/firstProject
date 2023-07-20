@@ -11,6 +11,6 @@ public class App {
         double a = Double.parseDouble(st.nextToken());
         double b = Double.parseDouble(st.nextToken());
 
-        System.out.println(a / b);
+        System.out.println(a / b*2);
     }
 }
